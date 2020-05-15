@@ -1,7 +1,6 @@
 //Aashima Mehta
-//CS 143
-//Core Topics: Circular LinkedList
-//This program will is based upon Josephus Problem, in which the you eliminate
+//Circular LinkedList
+//This program is based upon Josephus Problem, in which you eliminate
 //people until there's just one "survivor" left.
 
 import java.util.*;
